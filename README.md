@@ -42,6 +42,7 @@ Note that we are not constructing a model which aims to predict the result of a 
   <a name="Executive_Summary"></a>
   <summary>Show/Hide</summary>
   <br>
+</details>
   
 <a name="Data_Early_EDA_and_Cleaning"></a>
 ### Data, Early EDA, and Cleaning:

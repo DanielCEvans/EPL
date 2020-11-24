@@ -1,4 +1,4 @@
-<h1 align='centre'>English Premier League Result Classifier</h1>
+<h1 align='center'>English Premier League Result Classifier</h1>
 
 <p align="center">
   <img src="https://github.com/DanielCEvans/English-Premier-League-result-classifier/blob/master/Images/Premier_League_Logo.svg.png">
@@ -17,17 +17,14 @@ Note that we are not constructing a model which aims to predict the result of a 
 
 1. [ Technologies Used ](#Technologies_Used)    
 2. [ Executive Summary ](#Executive_Summary)
-   * [ 2.1. Data, Early EDA, and Cleaning ](#Webscraping_Early_EDA_and_Cleaning)
-       * [ Webscraping ](#Webscraping)
-       * [ Early EDA and Cleaning](#Early_EDA_and_Cleaning) 
+   * [ 2.1. Data, Early EDA, and Cleaning ](#Data_Early_EDA_and_Cleaning) 
    * [ 2.2. Data Modelling and Hyperparameter Tuning ](#Modelling)
-   * [ 2.3 Performance Comparison ](#Evaluation)
-       * [ Future Improvements ](#Future_Improvements)
+   * [ 2.3. Performance Comparison ](#Evaluation)
 3. [Summary and Conclusions](#Summary)
 </details>
 
 ## Technologies Used
-<details open>
+<details>
 <a name="Technologies_Used"></a> 
 <summary>Show/Hide</summary>
 <br>
@@ -39,6 +36,36 @@ Note that we are not constructing a model which aims to predict the result of a 
 * <strong>Seaborn</strong>
 * <strong>Scikit-Learn</strong>
 </details>
+
+## Executive Summary
+<details open>
+  <a name="Executive_Summary"></a>
+  <summary>Show/Hide</summary>
+  <br>
+  
+<a name="Data_Early_EDA_and_Cleaning"></a>
+### Data, Early EDA, and Cleaning:
+<details open>
+<summary>Show/Hide</summary>
+<br>
+  
+<a name="Modelling"></a>
+### Data Modelling and Hyperparameter Tuning:
+<details open>
+<summary>Show/Hide</summary>
+<br>
+  
+<a name="Evaluation"></a>
+### Performance Comparison:
+<details open>
+<summary>Show/Hide</summary>
+<br>
+  
+## Executive Summary
+<details open>
+  <a name="Summary"></a>
+  <summary>Show/Hide</summary>
+  <br>
  
 
 

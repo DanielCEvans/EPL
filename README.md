@@ -48,14 +48,19 @@ Note that we are not constructing a model which aims to predict the result of a 
 <details open>
 <summary>Show/Hide</summary>
 <br>
-  
 Hello
+</details>
+  
+
   
 <a name="Modelling"></a>
 ### Data Modelling and Hyperparameter Tuning:
 <details open>
 <summary>Show/Hide</summary>
 <br>
+
+</details>
+  
   
 <a name="Evaluation"></a>
 ### Performance Comparison:
@@ -63,12 +68,15 @@ Hello
 <summary>Show/Hide</summary>
 <br>
   
+</details>
+
 ## Summary and Conclusions
 <details open>
   <a name="Summary"></a>
   <summary>Show/Hide</summary>
   <br>
- 
+  
+  </details>
 
 
 

@@ -1,5 +1,9 @@
 # English-Premier-League-result-classifier
 
+<p align="center">
+  <img src="https://https://github.com/DanielCEvans/English-Premier-League-result-classifier/master/Images/Premier_League_Logo.svg.png" width=600>
+</p>
+
 ## Project Statement
 
 The aim of this notebook is to construct a model which can accurately classify the result of an English Premier League Football match based on the statistics of the match. The target feature ‘result’ is multinomial. A result can be either win (w), loss (l), or draw (d) which is based on the number of goals scored by each team in the match. If your team scores more goals, then you win the match, and vice versa. If you score the same amount of goals then the match is a draw.

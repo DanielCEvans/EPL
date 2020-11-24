@@ -1,4 +1,4 @@
-# English-Premier-League-result-classifier
+<h1 align = "centre">"English Premier League Result Classifier</h1>
 
 <p align="center">
   <img src="https://github.com/DanielCEvans/English-Premier-League-result-classifier/blob/master/Images/Premier_League_Logo.svg.png">

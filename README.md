@@ -48,13 +48,37 @@ Note that we are not constructing a model which aims to predict the result of a 
 <details open>
 <summary>Show/Hide</summary>
 <br>
-The full dataset is a merge of two datasets which can be found [here](https://github.com/vaastav/Fantasy-Premier-League) and [here](https://datahub.io/sports-data/english-premier-league). 
+The full dataset is a merge of two datasets which can be found here: https://github.com/vaastav/Fantasy-Premier-League and here:https://datahub.io/sports-data/english-premier-league). 
 The dataset contains key information on each team for each match that has been played in the 2019/2020 season. The initial shape of the dataset was (576, 37). 
-Certain features in the dataset were immediately removed as they provided either no assistance in predictive modelling or too much assistance thereby removing the necessity for modelling. The dataset was already ‘clean’. All datatypes were loaded correctly, and there were no missing values, typos, additional whitespace, or unusual values found in the data.
+Certain features in the dataset were immediately removed as they provided either no assistance in predictive modelling or too much assistance thereby removing the necessity for modelling. The dataset was already ‘clean’ in that all datatypes were loaded correctly and there were no missing values, typos, additional whitespace, or unusual values in the data.
 
 <p align="center">
   <img src="https://github.com/DanielCEvans/English-Premier-League-result-classifier/blob/master/Images/matchday.png">
 </p>
+<p align="center">
+  <img src="https://github.com/DanielCEvans/English-Premier-League-result-classifier/blob/master/Images/wdl.png">
+</p>
+<p align="center">
+  <img src="https://github.com/DanielCEvans/English-Premier-League-result-classifier/blob/master/Images/goals.png">
+</p>
+<p align="center">
+  <img src="https://github.com/DanielCEvans/English-Premier-League-result-classifier/blob/master/Images/cards.png">
+</p>
+<p align="center">
+  <img src="https://github.com/DanielCEvans/English-Premier-League-result-classifier/blob/master/Images/ground.png">
+</p>
+<p align="center">
+  <img src="https://github.com/DanielCEvans/English-Premier-League-result-classifier/blob/master/Images/table.png">
+</p>
+
+The following pieces of information were found from the exploratory data analysis:
+
+* The most commonly occuring matchday is Saturday
+* Liverpool have the highest number of wins while Norwich have the highest number of losses
+* Interestingly, the team coming second has the highest number of goals scored while Norwich, the team in last position, has the highest number of goals conceded
+* The number of yellow and red cards does not seem to affect the teams position in the league table
+* A team is more likely to score more goals if they are playing at their home ground as opposed to the oppositions ground
+* At the time of writing, Liverpool are at the top of the table while Norwich are at the bottom
 
 </details>
   

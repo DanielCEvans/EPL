@@ -34,6 +34,8 @@ The full dataset is a merge of two datasets which can be found here: https://git
 The dataset contains key information on each team for each match that has been played in the 2019/2020 season. The initial shape of the dataset was (576, 37). 
 Certain features in the dataset were immediately removed as they provided either no assistance in predictive modelling or too much assistance thereby removing the necessity for modelling. The dataset was already ‘clean’ in that all datatypes were loaded correctly and there were no missing values, typos, additional whitespace, or unusual values in the data.
 
+<img width="988" alt="matchday" src="https://user-images.githubusercontent.com/65587875/100291411-d0a3d400-2fd1-11eb-96e6-2652999d03cf.png">
+
 <p align="center">
   <img src="https://github.com/DanielCEvans/English-Premier-League-result-classifier/blob/master/Images/matchday.png">
 </p>

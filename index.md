@@ -92,7 +92,7 @@ By selecting the 5 best possible features using the various methods, the accurac
 - The hyper parameter tuning of the decision tree model using the gridsearcv method determined the best fitting model to have a maximum depth of 2, minimum samples split of 2, and using entropy criterion.
 - The hyper parameter tuning of the naïve bayes model using the gridsearcv method determined the best fitting model to have a variance smoothing value of approximately 0.53.
   
- ### Performance Comparison:
+### Performance Comparison:
 
 <img width="347" alt="confusion" src="https://user-images.githubusercontent.com/65587875/100291858-01d0d400-2fd3-11eb-98dd-ed0f8ff3ea00.png">
 

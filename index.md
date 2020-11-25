@@ -8,17 +8,13 @@ The aim of this notebook is to construct a model which can accurately classify t
 Note that we are not constructing a model which aims to predict the result of a match yet to be played, rather, a model which accurately classifies the result of a match which has already been played.
 
 ## Table of Contents
-<details open>
-<summary>Show/Hide</summary>
-<br>
-
-1. [ Technologies Used ](#Technologies_Used)    
-2. [ Executive Summary ](#Executive_Summary)
-   * [ 2.1. Data, Early EDA, and Cleaning ](#Data_Early_EDA_and_Cleaning) 
-   * [ 2.2. Data Modelling and Hyperparameter Tuning ](#Modelling)
-   * [ 2.3. Performance Comparison ](#Evaluation)
-3. [Summary and Conclusions](#Summary)
-</details>
+1. Technologies Used
+2. Executive Summary
+   2.1. Data, Early EDA, and Cleaning
+   2.2. Data Modelling and Hyperparameter Tuning
+   2.3. Performance Comparison
+3. Summary and Conclusion
+{:toc}
 
 ## Technologies Used
 <details>

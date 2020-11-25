@@ -48,7 +48,14 @@ Note that we are not constructing a model which aims to predict the result of a 
 <details open>
 <summary>Show/Hide</summary>
 <br>
-Hello
+The full dataset is a merge of two datasets which can be found [here](https://github.com/vaastav/Fantasy-Premier-League) and [here](https://datahub.io/sports-data/english-premier-league). 
+The dataset contains key information on each team for each match that has been played in the 2019/2020 season. The initial shape of the dataset was (576, 37). 
+Certain features in the dataset were immediately removed as they provided either no assistance in predictive modelling or too much assistance thereby removing the necessity for modelling. The dataset was already ‘clean’. All datatypes were loaded correctly, and there were no missing values, typos, additional whitespace, or unusual values found in the data.
+
+<p align="center">
+  <img src="https://github.com/DanielCEvans/English-Premier-League-result-classifier/blob/master/Images/matchday.png">
+</p>
+
 </details>
   
 

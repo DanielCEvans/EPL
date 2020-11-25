@@ -68,7 +68,7 @@ Certain features in the dataset were immediately removed as they provided either
   <img src="https://github.com/DanielCEvans/English-Premier-League-result-classifier/blob/master/Images/ground.png">
 </p>
 <p align="center">
-  <img src="https://github.com/DanielCEvans/English-Premier-League-result-classifier/blob/master/Images/table.png">
+  <img src="https://github.com/DanielCEvans/English-Premier-League-result-classifier/blob/master/Images/table.png" width = 600>
 </p>
 
 The following pieces of information were found from the exploratory data analysis:

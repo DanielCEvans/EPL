@@ -28,7 +28,7 @@ Note that we are not constructing a model which aims to predict the result of a 
 
 ## Executive Summary
   
-### Data, Exploratory Data Analysis, and Cleaning:
+### Data, Exploratory Data Analysis, and Cleaning
 
 The full dataset is a merge of two datasets which can be found [here](https://github.com/vaastav/Fantasy-Premier-League) and [here](https://datahub.io/sports-data/english-premier-league). 
 The dataset contains key information on each team for each match that has been played in the 2019/2020 season. The initial shape of the dataset was (576, 37). 
@@ -55,7 +55,7 @@ The following pieces of information were found from the exploratory data analysi
 * A team is more likely to score more goals if they are playing at their home ground as opposed to the oppositions ground
 * At the time of writing, Liverpool are at the top of the table while Norwich are at the bottom
 
-### Data Modelling and Hyperparameter Tuning:
+### Data Modelling and Hyperparameter Tuning
 
 The following different types of classifiers were analysed when trying to predict the outcome of a result:
 
@@ -92,7 +92,7 @@ By selecting the 5 best possible features using the various methods, the accurac
 - The hyper parameter tuning of the decision tree model using the gridsearcv method determined the best fitting model to have a maximum depth of 2, minimum samples split of 2, and using entropy criterion.
 - The hyper parameter tuning of the naïve bayes model using the gridsearcv method determined the best fitting model to have a variance smoothing value of approximately 0.53.
   
-### Performance Comparison:
+### Performance Comparison
 
 <img width="347" alt="confusion" src="https://user-images.githubusercontent.com/65587875/100291858-01d0d400-2fd3-11eb-98dd-ed0f8ff3ea00.png">
 

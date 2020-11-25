@@ -1,7 +1,7 @@
 <h1 align='center'>English Premier League Result Classifier</h1>
 
 <p align="center">
-  <img src="https://github.com/DanielCEvans/English-Premier-League-result-classifier/blob/gh-pages/Images/Premier_League_Logo.svg.png" width = 600>
+  <img src="https://github.com/DanielCEvans/English-Premier-League-result-classifier/blob/master/Images/Premier_League_Logo.svg.png" width = 600>
 </p>
 
 ## Project Statement

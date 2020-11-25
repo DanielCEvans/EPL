@@ -1,7 +1,7 @@
 <h1 align='center'>English Premier League Result Classifier</h1>
 
 <p align="center">
-  <img src="https://github.com/DanielCEvans/English-Premier-League-result-classifier/blob/master/Images/Premier_League_Logo.svg.png">
+  <img src="https://github.com/DanielCEvans/English-Premier-League-result-classifier/blob/master/Images/Premier_League_Logo.svg.png" width = 600>
 </p>
 
 ## Project Statement
@@ -53,7 +53,7 @@ The dataset contains key information on each team for each match that has been p
 Certain features in the dataset were immediately removed as they provided either no assistance in predictive modelling or too much assistance thereby removing the necessity for modelling. The dataset was already ‘clean’ in that all datatypes were loaded correctly and there were no missing values, typos, additional whitespace, or unusual values in the data.
 
 <p align="center">
-  <img src="https://github.com/DanielCEvans/English-Premier-League-result-classifier/blob/master/Images/matchday.png" width = 600>
+  <img src="https://github.com/DanielCEvans/English-Premier-League-result-classifier/blob/master/Images/matchday.png">
 </p>
 <p align="center">
   <img src="https://github.com/DanielCEvans/English-Premier-League-result-classifier/blob/master/Images/wdl.png">

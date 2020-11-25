@@ -1,10 +1,5 @@
-<h1 align='center'>English Premier League Result Classifier</h1>
 
 ![Premier_League_Logo svg](https://user-images.githubusercontent.com/65587875/100211678-88989900-2f60-11eb-9bbb-dece9b7bb672.png)
-
-<p align="center">
-  <img src="https://github.com/DanielCEvans/English-Premier-League-result-classifier/blob/master/Images/Premier_League_Logo.svg.png" width = 600>
-</p>
 
 ## Project Statement
 

@@ -123,7 +123,7 @@ By selecting the 5 best possible features using the various methods, the accurac
   <img src="https://github.com/DanielCEvans/English-Premier-League-result-classifier/blob/master/Images/dt.png" width = 600>
 </p>
 <p align="center">
-  <img src="https://github.com/DanielCEvans/English-Premier-League-result-classifier/blob/master/Images/nb.png" width = 600>
+  <img src="https://github.com/DanielCEvans/English-Premier-League-result-classifier/blob/master/Images/nb.png" width = 500>
 </p>
 
 * The hyper parameter tuning of the k-nearest neighbour model using the gridsearcv method determined the best fitting model to have 5 nearest neighbours using Euclidean distance. 
@@ -138,7 +138,7 @@ By selecting the 5 best possible features using the various methods, the accurac
 <summary>Show/Hide</summary>
 <br>
 <p align="center">
-  <img src="https://github.com/DanielCEvans/English-Premier-League-result-classifier/blob/master/Images/confusion.png" width = 600>
+  <img src="https://github.com/DanielCEvans/English-Premier-League-result-classifier/blob/master/Images/confusion.png" width = 500>
 </p>
 The paired t-tests among all three models showed that there was no significant difference found between the decision tree and the naive bayes model (p > 0.05). There was a significant difference found between the k-nearest neighbour model and both the decision tree and naive bayes models (p < 0.05).<br>
 The Decision Tree model returned the best mean result in terms of accuracy with a percentage of approximately 54.5%.
